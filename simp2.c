@@ -6,7 +6,7 @@ int main()
     float sum , min , min1 , key , R2 ;
     float a[5][8]={ 0 , 0 ,1 , 1.5 , 0 , 0 , 0 , 0 ,400 , 0 , 1 ,0 ,1 ,0 , 0 , 0, 200 , 0 , 0 ,1 ,0 , 1 ,0 , 0 ,960 , 0 ,1 , 3 ,0 , 0 ,1 , 0 ,0 , 0 ,0 ,0 ,0 , 0 ,0 ,0 ,0};
 double R1,R2;
-char R;
+char R, Y;
 
 
 printf("\n SIMPLEX METHOD\n\n");
